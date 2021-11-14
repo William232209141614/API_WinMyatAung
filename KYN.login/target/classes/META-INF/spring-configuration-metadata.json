@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.lithan.winmyataung.KYN.login.configuration.AppProperties",
+      "sourceType": "com.lithan.winmyataung.KYN.login.configuration.AppProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
